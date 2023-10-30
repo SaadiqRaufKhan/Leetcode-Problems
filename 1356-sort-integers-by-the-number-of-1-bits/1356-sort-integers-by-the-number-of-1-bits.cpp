@@ -1,8 +1,8 @@
-int countSet(int a) {
+int countSet(int n) {
     int ans = 0;
-    while(a != 0) {
-        if(a & 1) ans++;
-        a = a >> 1;
+    while(n > 0) {
+        n = n & (n-1);
+        ans++;
     }
     return ans;
 }
