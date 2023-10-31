@@ -1,5 +1,6 @@
 class Solution {
 public:
+    /*
     int BS(vector<int> arr, int target, int s, int e) {        
         while(s <= e) {
             int mid = s + (e-s)/2;
@@ -50,13 +51,9 @@ public:
         
         return (x == -1) ? y : x;
     }
+    */
     
-};
-
-
-
-/*
-int search(vector<int>& arr, int target) {
+    int search(vector<int>& arr, int target) {
         int s = 0;
         int e = arr.size() - 1;
         while(s <= e) {
@@ -90,4 +87,8 @@ int search(vector<int>& arr, int target) {
         // return -1 in this case
         return -1;
     }
-*/
+    
+};
+
+
+
