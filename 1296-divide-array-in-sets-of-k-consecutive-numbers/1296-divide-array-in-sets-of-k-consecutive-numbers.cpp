@@ -9,7 +9,7 @@ public:
         int freq;
         for(int &i:nums)		// Store the count of all numbers sorted.
             count[i]++;
-        for(it=count.begin();it!=count.end();it++)	// Start with the smallest number.
+        for(it=count.begin();it!=count.end();it++) {	// Start with the smallest number.
             if(it->second) {   // If the count of smallest integer is non 0 check if next k numbers exist and have atleast same frequency.
                 freq = it->second;
                 for(int i=0; i<k; i++)			// Checks for the next k-1 numbers.
@@ -18,6 +18,7 @@ public:
                     else
                         count[it->first+i]-=freq;   //Reduce the count of the numbers used.
             }
+        }
         return true;
     }
 };
