@@ -24,69 +24,13 @@ public:
                 
                 // ith and jth char don't match 
                 else {
-                    int I = dp[i-1][j];   // insert
-                    int D = dp[i][j-1];   // delete
-                    int R = dp[i-1][j-1]; // replace
-                    dp[i][j] = min({I, D, R}) + 1;
+                    int I = 1 + dp[i-1][j];   // insert
+                    int D = 1 + dp[i][j-1];   // delete
+                    int R = 1 + dp[i-1][j-1]; // replace
+                    dp[i][j] = min({I, D, R});
                 }
             }
         }
-        return dp[n][m];
-        
+        return dp[n][m];   
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-//     int minDistance(string s, string t) {
-//         int m = s.size();
-//         int n = t.size();
-//         int **output = new int*[m+1];
-//         for(int i = 0; i <= m; i++) {
-//             output[i] = new int[n+1];
-//         }
-
-//         // Fill 1st row
-//         for(int j = 0; j <= n; j++) {
-//             output[0][j] = j;
-//         }
-//         // Fill 1st col
-//         for(int i = 1; i <= m; i++) {
-//             output[i][0] = i;
-//         }
-
-//         for(int i = 1; i <= m; i++) {
-//             for(int j = 1; j <= n; j++) {
-//                 if(s[i-1] == t[j-1]) {
-//                     output[i][j] = output[i-1][j-1];
-//                 }
-//                 else {
-//                     // insert
-//                     int a = 1 + output[i-1][j];
-//                     // delete
-//                     int b = 1 + output[i][j-1];
-//                     // replace
-//                     int c = 1 + output[i-1][j-1];
-//                     output[i][j] = min(a, min(b, c));
-//                 }
-//             }
-//         }
-//         return output[m][n];
-//     }
 };
