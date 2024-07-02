@@ -1,4 +1,3 @@
-
 // class Solution {
 // public:
 //     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
@@ -9,10 +8,12 @@
         
 //         vector<vector<int>> dp(n, vector<int>(m));
         
+//         // fill the last 
+//         dp[n-1][m-1] = !(obstacleGrid[n-1][m-1]);
 //         // fill the base cases 
 //         // last row
 //         bool rowFlag = false;
-//         for(int i=m-1; i>=0; i--) {
+//         for(int i=m-2; i>=0; i--) {
 //             if(obstacleGrid[n-1][i] == 1) rowFlag = true;
             
 //             if(rowFlag) dp[n-1][i] = 0;
@@ -21,7 +22,7 @@
         
 //         // last col
 //         bool colFlag = false;
-//         for(int i=n-1; i>=0; i--) {
+//         for(int i=n-2; i>=0; i--) {
 //             if(obstacleGrid[i][m-1] == 1) colFlag = true;
             
 //             if(colFlag) dp[i][m-1] = 0;
@@ -62,31 +63,27 @@ public:
         int m = obstacleGrid.size();
         int n = obstacleGrid[0].size();
         vector<vector<long long>> dp(m, vector<long long>(n, -1));
+        
         // last cell
         dp[m-1][n-1] = !(obstacleGrid[m-1][n-1]);
-        // last column
+        
+        // last column 
         for(int i=m-2; i>=0; i--) {
             // obstacle -> no path
-            if(obstacleGrid[i][n-1] == 1) {
-                dp[i][n-1] = 0;
-            }
+            if(obstacleGrid[i][n-1] == 1) dp[i][n-1] = 0;
             // no obstacle -> copy the below cell
-            else {
-                dp[i][n-1] = dp[i+1][n-1];
-            }
+            else dp[i][n-1] = dp[i+1][n-1];
         }
         // last row
         for(int j=n-2; j>=0; j--) {
             // obstacle -> no path
-            if(obstacleGrid[m-1][j] == 1) {
-                dp[m-1][j] = 0;
-            }
+            if(obstacleGrid[m-1][j] == 1) dp[m-1][j] = 0;
             // no obstacle -> copy the right cell
-            else {
-                dp[m-1][j] = dp[m-1][j+1];
-            }
+            else dp[m-1][j] = dp[m-1][j+1];
         }
-        // fill the dp table in bottom up manner
+        
+        
+        // fill the remaining dp table in bottom up manner
         for(int i=m-2; i>=0; i--) {
             for(int j=n-2; j>=0; j--) {
                 if(obstacleGrid[i][j] == 1) {
