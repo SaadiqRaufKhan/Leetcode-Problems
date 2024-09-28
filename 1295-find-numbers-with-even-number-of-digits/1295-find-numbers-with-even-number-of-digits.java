@@ -1,5 +1,5 @@
 class Solution {
-    boolean isEven(int n) {
+    static boolean isEven(int n) {
         int d = 0;
         while(n > 0) {
             n /= 10;
