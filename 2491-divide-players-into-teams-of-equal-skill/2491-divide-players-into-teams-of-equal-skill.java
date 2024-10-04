@@ -16,17 +16,14 @@ class Solution {
         
         Arrays.sort(skill);
         
-//         for(int s: skill) {
-//             System.out.println(s + " ");
-//         }
-        
-//         return 22;
         int i = 0;
         int j = n - 1;
-        Vector<Integer> vec = new Vector<Integer>();
+        // Vector<Integer> vec = new Vector<Integer>();
+        long res = 0;
         while(i < j) {
             if(skill[i] + skill[j] == sumPerTeam) {
-                vec.addElement(skill[i] * skill[j]);
+                // vec.addElement(skill[i] * skill[j]);
+                res += (skill[i] * skill[j]);
             }
             else {
                 return -1;
@@ -34,10 +31,10 @@ class Solution {
             i++; j--;
         }
         
-        long res = 0;
-        for(int v: vec) {
-            res += v;
-        }
+//         long res = 0;
+//         for(int v: vec) {
+//             res += v;
+//         }
         return res;
         
     }
