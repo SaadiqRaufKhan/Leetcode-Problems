@@ -15,7 +15,6 @@ class Solution {
         ListNode next = null;
         
         while(curr != null) {
-            System.out.println(curr.val);
             next = curr.next;
             curr.next = prev;
             prev = curr;
