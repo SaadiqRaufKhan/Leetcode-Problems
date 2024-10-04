@@ -13,14 +13,9 @@ public:
         
         sort(skill.begin(), skill.end());
         
-        // vector<int> :: iterator i = skill.begin();
-        // vector<int> :: iterator j = skill.end() - 1;
-        
         int i = 0;
         int j = n - 1;
-        
-        long res = 0;
-        
+        long res = 0;        
         while(i < j) {
             if(skill[i] + skill[j] == sumPerTeam) {
                 res += (skill[i] * skill[j]);
