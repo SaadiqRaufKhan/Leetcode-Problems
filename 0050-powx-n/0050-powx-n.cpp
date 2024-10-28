@@ -2,10 +2,6 @@ class Solution {
 public:
     // HINT: write the power 'n' in binary and think from there
     double myPow(double x, int n) {
-        if(n == 0) {
-            return 1;
-        }
-        
         long long power = n;    // copy n and make it +ve to deal with -ve powers
         if(n < 0) {
             power = -1 * power;
