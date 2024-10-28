@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // HINT: write the power 'n' in binary and think from there
     double myPow(double x, int n) {
         if(n == 0) {
             return 1;
@@ -19,19 +20,7 @@ public:
             x = x * x;          // square the base in each iteration
             power = power>>1;   // right shift to remove the last bit of power
         }
-        
-        
-        // while(power > 0) {
-        //     if(power % 2 == 0) {   // if bit is 0, ans doesn't change
-        //         x = x * x;         // the base gets squared  
-        //         power = power / 2;
-        //     }
-        //     else {              // if bit is 1, ans need to be multiplied
-        //         ans = ans * x;
-        //         power = power - 1;
-        //     }
-        // }
-
+              
         if(n < 0) {
             return (double)1.0 / (double)ans;
         }
