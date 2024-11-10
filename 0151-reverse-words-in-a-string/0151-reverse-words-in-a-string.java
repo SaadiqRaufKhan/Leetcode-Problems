@@ -1,20 +1,17 @@
 class Solution {
-    public String reverseWords(String s) {
-        // String ans = s.trim();
-        
+    public String reverseWords(String s) {        
         List<String> list = new ArrayList<>();
-        String ans = s;
         int i = 0;
-        while(i<ans.length()) {
-            if(ans.charAt(i) == ' ') {
+        while(i<s.length()) {
+            if(s.charAt(i) == ' ') {
                 i++;
                 continue;
             }
             int j = i;
             StringBuilder str = new StringBuilder();
-            while(j < ans.length() && ans.charAt(j) != ' ') {
+            while(j < s.length() && s.charAt(j) != ' ') {
                 System.out.println("j = " + j);
-                str.append(ans.charAt(j));
+                str.append(s.charAt(j));
                 j++;
             }
             list.add(str.toString());
