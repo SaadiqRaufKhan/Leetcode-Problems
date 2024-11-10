@@ -1,9 +1,9 @@
 class Solution {
     public String reverseWords(String s) {
-        String ans = s.trim();
+        // String ans = s.trim();
         
         List<String> list = new ArrayList<>();
-        
+        String ans = s;
         int i = 0;
         while(i<ans.length()) {
             if(ans.charAt(i) == ' ') {
