@@ -4,9 +4,10 @@ class Solution {
         int[] ans = new int[n];
         
         if(k == 0) {
-            for(int i=0; i<n; i++) {
-                ans[i] = 0;
-            }
+            // for(int i=0; i<n; i++) {
+            //     ans[i] = 0;
+            // }
+            return ans;
         }
         else if(k > 0) {
             for(int i=0; i<n; i++) {
