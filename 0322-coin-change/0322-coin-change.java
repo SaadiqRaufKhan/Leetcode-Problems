@@ -10,6 +10,35 @@ class Solution {
         for(int i=1; i<=amount; i++) {
             ArrayList<Integer> indices = new ArrayList<>();
             int j = 0;
+            int ans = Integer.MAX_VALUE;
+            while(j < coins.length && coins[j] <= i) {
+                int index = i - coins[j];
+                if(dp[index] != -1) {
+                    ans = Math.min(ans, dp[index]+1);
+                }
+                j++;
+            }
+            if(ans != Integer.MAX_VALUE) {
+                dp[i] = ans;
+            }
+        }
+        return dp[amount];
+    }
+}
+
+/*
+class Solution {
+    public int coinChange(int[] coins, int amount) {
+        Arrays.sort(coins);
+        
+        int[] dp = new int[amount+1];
+        
+        Arrays.fill(dp, -1);
+        dp[0] = 0;
+        
+        for(int i=1; i<=amount; i++) {
+            ArrayList<Integer> indices = new ArrayList<>();
+            int j = 0;
             while(j < coins.length && coins[j] <= i) {
                 indices.add(i - coins[j]);
                 j++;
@@ -28,3 +57,4 @@ class Solution {
         return dp[amount];
     }
 }
+*/
