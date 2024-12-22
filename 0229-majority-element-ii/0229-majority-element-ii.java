@@ -5,7 +5,6 @@ class Solution {
         
         int n = nums.length;
         int target = (int) Math.floor(n/3);
-        System.out.println(target);
         int i = 0;
         
         while(i < n) {
