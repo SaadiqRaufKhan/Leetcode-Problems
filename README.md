@@ -7,6 +7,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 ## Hash Table
@@ -20,6 +21,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
