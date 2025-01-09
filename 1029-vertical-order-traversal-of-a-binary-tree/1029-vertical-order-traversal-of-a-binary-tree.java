@@ -14,10 +14,10 @@
  * }
  */
 
-class Pair<K, V> {
-    public K first;
-    public V second;
-    Pair(K first, V second) {
+class Pair<T, V> {
+    T first;
+    V second;
+    Pair(T first, V second) {
         this.first = first;
         this.second = second;
     }
