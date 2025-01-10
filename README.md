@@ -53,19 +53,23 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
