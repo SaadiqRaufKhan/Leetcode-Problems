@@ -4,11 +4,15 @@ class Solution {
         Arrays.sort(intervals, (row1, row2) -> Integer.compare(row1[0], row2[0]));
 
         List<int[]> ans = new ArrayList<>();
+
+        // pick each element and check if they can be merged in the last interval of ans
         for(int i=0; i<n; i++) {
             int size = ans.size();
+            // can't merge current interval into the last interval of ans
             if(size == 0 || ans.get(size-1)[1] < intervals[i][0]) {
                 ans.add(intervals[i]);
             }
+            // merge current interval ans update the 'end' of interval
             else {
                 ans.get(size-1)[1] = Math.max(intervals[i][1], ans.get(size-1)[1]);
             }
