@@ -26,6 +26,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 ## Design
@@ -49,6 +50,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
@@ -84,6 +86,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
