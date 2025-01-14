@@ -2,9 +2,6 @@ class Solution {
 public:
     
     int expandPalindrome(string s, int l ,int r) {
-        // if(s.length() == 0 || l > r) {
-        //     return 0;
-        // }
         // expand left and right boundary
         while(l >= 0 && r < s.length() && s[l] == s[r]) {
             l--;
@@ -19,7 +16,7 @@ public:
         // initialize the start & end index for the subtring to be returned, also 'end-start' will give us the length of the current longest substring 
         int start = 0;
         int end = 0;
-        for(int i=0; i<s.length(); i++) {
+        for(int i=0; i<s.length()-1; i++) {
             int len1 = expandPalindrome(s, i, i);
             int len2 = expandPalindrome(s, i, i+1);
 
