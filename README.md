@@ -11,6 +11,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0048-rotate-image](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -29,6 +30,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 ## Design
@@ -39,6 +41,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
