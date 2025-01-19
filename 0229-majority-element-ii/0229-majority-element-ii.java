@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        Arrays.sort(nums);
+        Arrays.sort(nums); // nlog(n)
         List<Integer> ans = new ArrayList<>();
         
         int n = nums.length;
