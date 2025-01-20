@@ -3,13 +3,6 @@ class Solution {
         int i = 0;
         int ans = 1;
 
-        // while(i < arr.length && ans == arr[i]) {
-        //     ans++;
-        //     i++;
-        // }
-        // if(k == 1) return ans;
-
-
         while(i < arr.length && k > 1) {
             if(ans == arr[i]) {
                 i++;
@@ -22,10 +15,10 @@ class Solution {
                 }
             }
         }
-        // we have used all k's
+        // we have used all k's and we just need to return the 
+        // next missing number that is not in array
         if(k == 1) {
-            // condition to check if ans matches with arr[i]
-            // increase ans while it is same as arr[i]
+            // increase ans while it is same as arr[i] (because ans can't be an element of arr)
             while(i < arr.length && ans == arr[i]) {
                 ans++;
                 i++;
