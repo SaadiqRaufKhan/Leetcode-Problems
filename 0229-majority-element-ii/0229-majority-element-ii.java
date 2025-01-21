@@ -1,23 +1,55 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        Arrays.sort(nums); // nlog(n)
-        List<Integer> ans = new ArrayList<>();
-        
-        int n = nums.length;
-        int target = (int) Math.floor(n/3);
-        int i = 0;
-        
-        while(i < n) {
-            int count = 0;
-            int elem = nums[i];
-            while(i < n && nums[i] == elem) {
-                count++;
-                i++;
+        // a, b are the possible answers
+        int a = Integer.MAX_VALUE;
+        int b = Integer.MAX_VALUE;
+        int counta = 0;
+        int countb = 0;
+
+        for(int i=0; i<nums.length; i++) {
+            if(counta == 0) {
+                if(nums[i] == b) {
+                    countb++;
+                }
+                else {
+                    a = nums[i];
+                    counta++;
+                }
             }
-            if(count > target) {
-                ans.add(elem);
+            else if(countb == 0) {
+                if(nums[i] == a) {
+                    counta++;
+                }
+                else {
+                    b = nums[i];
+                    countb++;
+                }
+            }
+            else if(nums[i] == a) {
+                counta++;
+            }
+            else if(nums[i] == b) {
+                countb++;
+            }
+            else {
+                counta--;
+                countb--;
             }
         }
+
+        // verification phase
+        int target = (int)Math.floor(nums.length / 3);
+        System.out.println(target + ".....");
+        int f1 = 0;
+        int f2 = 0;
+        for(int i=0; i<nums.length; i++) {
+            if(nums[i] == a) f1++;
+            if(nums[i] == b) f2++;
+        }
+        List<Integer> ans = new ArrayList<>();
+        if(f1 > target) ans.add(a);
+        if(f2 > target) ans.add(b);
+
         return ans;
     }
 }
