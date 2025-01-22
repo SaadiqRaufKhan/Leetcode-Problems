@@ -4,9 +4,9 @@ class Solution {
         int N = n + m - 2;
         int r = m - 1; 
         long res = 1;
-        
-        for (int i = 1; i <= r; i++)
-            res = res * (N - r + i) / i;
+        // (n+m-2) C (m-1)
+        for (int i = 1; i <= m-1; i++)
+            res = res * (n - 1 + i) / i;
         return (int)res;
     }
 }
