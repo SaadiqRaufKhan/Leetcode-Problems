@@ -31,6 +31,7 @@ class Solution {
             while (j <= e && nums[i] > (long)(2 * (long)nums[j]))  {
                 j++;
             }
+            // add the inversions of each element to the cummulative inversions of the previous elements 
             cnt += (j - m - 1);
         }
         return cnt;
