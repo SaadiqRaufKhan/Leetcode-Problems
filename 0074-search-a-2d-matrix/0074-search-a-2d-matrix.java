@@ -15,10 +15,11 @@ class Solution {
         return false;
     }
 
-
-    // find the row using binary search logic
-    boolean binarySearch2D(int[][] matrix, int s, int e, int target) {
+    public boolean searchMatrix(int[][] matrix, int target) {
+        int s = 0;
+        int e = matrix.length - 1;
         int n = matrix[0].length;
+        // find the correct row
         while(s <= e) {
             int mid = s + (e - s)/2;
             if(target >= matrix[mid][0] && target <= matrix[mid][n-1]) {
@@ -33,15 +34,5 @@ class Solution {
             }
         }
         return false;
-    }
-
-    public boolean searchMatrix(int[][] matrix, int target) {
-        // find the row, then find the element
-        int m = matrix.length;      // rows
-        int n = matrix[0].length;   // cols
-
-        return binarySearch2D(matrix, 0, m-1, target);
-
-        
     }
 }
