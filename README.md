@@ -82,6 +82,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0207-course-schedule](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -93,6 +94,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -152,4 +154,12 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
