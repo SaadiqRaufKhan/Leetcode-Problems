@@ -51,7 +51,9 @@ class Solution {
             time++;
         }
 
-        if(freshCount != 0) return -1;  // fresh oranges still remain
-        return time-1;  // adjust time for extra addition
+        if(freshCount > 0) 
+            return -1;  // fresh oranges still remain
+        else 
+            return time-1;  // adjust time for extra addition
     }
 }
