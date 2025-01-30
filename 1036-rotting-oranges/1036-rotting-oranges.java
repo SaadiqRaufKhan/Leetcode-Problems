@@ -13,16 +13,21 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
 
+        // count fresh oranges & push the rotten oranges in the q 
+        int freshCount = 0;
         Queue<Pair> q = new LinkedList<>();
         for(int i=0; i<m; i++) {
             for(int j=0; j<n; j++) {
                 if(grid[i][j] == 2) {
                     q.offer(new Pair(i,j));
                 }
+                else if(grid[i][j] == 1) {
+                    freshCount++;
+                }
             }
         }
 
-        // if(q.size() == 0) return 0; // no rotten orange
+        if(freshCount == 0) return 0;   // no fresh orange to begin with
 
         int[][] dir = {{0,1}, {0,-1}, {1,0}, {-1,0}};
         int time = 0;
@@ -38,6 +43,7 @@ class Solution {
                         if(grid[fx][fy] == 1) {
                             grid[fx][fy] = 2;
                             q.offer(new Pair(fx, fy));
+                            freshCount--;
                         }
                     }
                 }
@@ -45,16 +51,7 @@ class Solution {
             time++;
         }
 
-        // check if any fresh orange remains
-        for(int i=0; i<m; i++) {
-            for(int j=0; j<n; j++) {
-                if(grid[i][j] == 1) {
-                    return -1;
-                }
-            }
-        }
-
-        if(time == 0) return time;
-        return time-1;
+        if(freshCount != 0) return -1;  // fresh oranges still remain
+        return time-1;  // adjust time for extra addition
     }
 }
