@@ -9,7 +9,7 @@ class Solution {
             }
             curr_h_idx--;
         }
-        return 0;
+        return curr_h_idx;
         
     }
 }
