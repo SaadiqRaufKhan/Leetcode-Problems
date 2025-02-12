@@ -9,6 +9,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -43,6 +44,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0005-longest-palindromic-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -72,11 +74,13 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -176,4 +180,8 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
