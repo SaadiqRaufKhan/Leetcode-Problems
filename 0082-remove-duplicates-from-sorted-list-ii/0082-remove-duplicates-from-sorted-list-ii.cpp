@@ -14,8 +14,11 @@ public:
         // corner case
         if(head == NULL || head->next == NULL) return head;
 
+        ListNode* prev = new ListNode(0);
+        prev->next = head;
         ListNode* curr = head;
         bool flag = false;
+
         while(curr->next != NULL) {
             if(curr->val == curr->next->val) {
                 flag = true;
@@ -34,16 +37,13 @@ public:
                         curr = head;
                     } 
                     else {
-                        ListNode* prev = head;
-                        while(prev->next != curr) {
-                            prev = prev->next;
-                        }
                         prev->next = curr->next;
                         delete curr;
                         curr = prev->next;
                     }
                 }
                 else {
+                    prev = curr;
                     curr = curr->next;
                 }
             }
@@ -54,10 +54,6 @@ public:
                 delete curr;
             }
             else {
-                ListNode* prev = head;
-                while(prev->next != curr) {
-                    prev = prev->next;
-                }
                 prev->next = NULL;
                 delete curr;
             }
