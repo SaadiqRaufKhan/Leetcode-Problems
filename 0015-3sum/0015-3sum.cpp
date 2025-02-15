@@ -12,7 +12,7 @@ public:
             if(nums[i] > 0) {
                 break;
             }
-            // If number is getting repeated, ignore the lower loop and continue.
+            // if the current no is same as the previous then ignore it because we need unique solutions
             if(i > 0 && nums[i-1] == nums[i]) {
                 continue;
             }
@@ -20,22 +20,20 @@ public:
             int end = nums.size()-1;    // points to end
 
             while(start < end) {
-                int sum = nums[i] + nums[start] + nums[end];
+                int leftNumber = nums[start];
+                int rightNumber = nums[end];
+                int sum = nums[i] + leftNumber + rightNumber;
                 if(sum == 0) {
                     vector<int> triplet {nums[i], nums[start], nums[end]};
                     result.push_back(triplet);
 
-                    // jump the same numbers from both ends of the array to avoid duplicate triplets
-                    int leftNumber = nums[start];
-                    int rightNumber = nums[end];
-                    // increment start untill a new number is found
+                    // skip the same nos from both ends of the array to avoid duplicate triplets
                     while(start < end && nums[start] == leftNumber) {
-                        start++;
+                        start++;    // increment start untill a new number is found
+
                     }
-                    
-                    // decrement end untill a new number is found
                     while(start < end && nums[end] == rightNumber) {
-                        end--;
+                        end--;      // decrement end untill a new number is found
                     }
                 }
                 else if(sum > 0) {
