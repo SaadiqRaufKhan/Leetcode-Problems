@@ -53,6 +53,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
