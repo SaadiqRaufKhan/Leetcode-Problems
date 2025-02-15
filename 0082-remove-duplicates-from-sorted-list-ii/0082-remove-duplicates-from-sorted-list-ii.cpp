@@ -23,21 +23,22 @@ public:
         while (curr) {
             bool isDuplicate = false;
             
-            // Skip all nodes with the same value
+            // delete all nodes with the same value as curr's
             while (curr->next && curr->val == curr->next->val) {
                 isDuplicate = true;
                 ListNode* temp = curr;
                 curr = curr->next;
-                delete temp; // Free memory of duplicate node
+                delete temp;
             }
 
+            // this means the curr node needs to be deleted after the deletion of other duplicates
             if (isDuplicate) {
-                // Remove duplicates by skipping them
                 prev->next = curr->next;
                 delete curr; // Free memory of the last duplicate node
-            } else {
+            } 
+            else {
                 // Move prev forward if no duplicate was found
-                prev = prev->next;
+                prev = curr;
             }
             
             // Move curr forward
