@@ -11,6 +11,47 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
+
+        if (!head || !head->next) return head;
+
+        ListNode* dummy = new ListNode(-1); // Dummy node before head
+        dummy->next = head;
+
+        ListNode* prev = dummy; // Previous confirmed unique node
+        ListNode* curr = head;  // Current node to check
+
+        while (curr) {
+            bool isDuplicate = false;
+            
+            // Skip all nodes with the same value
+            while (curr->next && curr->val == curr->next->val) {
+                isDuplicate = true;
+                ListNode* temp = curr;
+                curr = curr->next;
+                delete temp; // Free memory of duplicate node
+            }
+
+            if (isDuplicate) {
+                // Remove duplicates by skipping them
+                prev->next = curr->next;
+                delete curr; // Free memory of the last duplicate node
+            } else {
+                // Move prev forward if no duplicate was found
+                prev = prev->next;
+            }
+            
+            // Move curr forward
+            curr = prev->next;
+        }
+
+        ListNode* newHead = dummy->next;
+        delete dummy; // Free dummy node memory
+        return newHead;
+    }
+};
+
+
+
         // // corner case
         // if(head == NULL || head->next == NULL) return head;
 
@@ -61,39 +102,3 @@ public:
         //     }
         // }
         // return head;
-            if (!head || !head->next) return head;
-
-    ListNode* dummy = new ListNode(0); // Dummy node before head
-    dummy->next = head;
-    ListNode* prev = dummy; // Previous confirmed unique node
-    ListNode* curr = head;  // Current node to check
-
-    while (curr) {
-        bool isDuplicate = false;
-        
-        // Skip all nodes with the same value
-        while (curr->next && curr->val == curr->next->val) {
-            isDuplicate = true;
-            ListNode* temp = curr;
-            curr = curr->next;
-            delete temp; // Free memory of duplicate node
-        }
-
-        if (isDuplicate) {
-            // Remove duplicates by skipping them
-            prev->next = curr->next;
-            delete curr; // Free memory of the last duplicate node
-        } else {
-            // Move prev forward if no duplicate was found
-            prev = prev->next;
-        }
-        
-        // Move curr forward
-        curr = prev->next;
-    }
-
-    ListNode* newHead = dummy->next;
-    delete dummy; // Free dummy node memory
-    return newHead;
-    }
-};
