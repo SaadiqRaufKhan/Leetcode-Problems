@@ -7,6 +7,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
@@ -45,6 +46,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
@@ -61,6 +63,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0169-majority-element) |
