@@ -11,77 +11,35 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if(!head) return head;
-        
-        int len = 0;
-        ListNode* temp = head;
-
-        while(temp) {
+        if(!head || !head->next) {
+            return head;
+        }
+        // 1. find the length and tail of ll
+        int len = 1;
+        ListNode* tail = head;
+        while(tail->next != NULL) {
+            tail = tail->next;
             len++;
-            temp = temp->next;
         }
 
-        int k2 = k % len;
+        // 2. reduce k using modulo 
+        k = k % len;
 
-        if(k2 == 0) return head;
+        // 3. connect tail with head
+        tail->next = head;
 
-        int count = 0;
-        temp = head;
-        while(count < len - k2 - 1) {
-            temp = temp->next;
-            count++;
+        // 4. find the node at cut-off point & move head forward
+        int pos = 1;
+        while(pos != len-k) {
+            head = head->next;
+            pos++;
         }
-        ListNode* finalHead = temp->next;
-        temp->next = NULL;
+        
+        // 5. cut-off the list at pos = len-k from, and make the node at pos = len-k+1 as the new head
+        ListNode* newHead = head->next;
+        head->next = NULL;
 
-        ListNode* temp2 = finalHead;
-        while(temp2->next) {
-            temp2 = temp2->next;
-        }
-        temp2->next = head;
-        return finalHead;
+        return newHead;
     }
 };
 
-
-
-
-
-
-
-
-
-
-
-
-
-// if(head == NULL || head->next == NULL) {
-//             return head;
-//         }
-//         // 1a. find the length and tail of ll
-//         int len = 1;
-//         ListNode* temp = head;
-//         while(temp->next != NULL) {
-//             temp = temp->next;
-//             len++;
-//         }
-
-//         // 1b. reduce k using modulo 
-//         k = k % len;
-
-//         // 2. connect tail with head
-//         temp->next = head;
-
-//         // 3. find the node at cut-off point & move head forward
-//         int pos = 1;
-//         while(pos != len-k) {
-//             pos++;
-//             head = head->next;
-//         }
-        
-//         // 4. cut-off the list at pos = len-k from 
-//         // and make the node at pos = len-k+1 as the new head
-//         ListNode* newHead = head->next;
-//         head->next = NULL;
-
-//         return newHead;
