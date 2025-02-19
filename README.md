@@ -164,6 +164,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
@@ -218,6 +219,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
