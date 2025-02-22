@@ -89,6 +89,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0005-longest-palindromic-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
 ## Stack
@@ -137,6 +138,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0048-rotate-image](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -223,4 +225,8 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0061-rotate-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
