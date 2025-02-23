@@ -11,8 +11,7 @@ public:
         dp[n - 1] = 0;   
 
         for (int i=n-2; i >= 0; i--) {
-            int max_jump = arr[i];
-            for (int j = 1; j <= max_jump && i+j < n; j++) {
+            for (int j = 1; j <= arr[i] && i+j < n; j++) {
                 if(dp[i+j] != INT_MAX) {
                     dp[i] = min(dp[i], dp[i+j] + 1);
                 }
