@@ -1,26 +1,24 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        if (prices.empty()) return 0;
-
-        int firstBuy = INT_MIN, firstSell = 0;
-        int secondBuy = INT_MIN, secondSell = 0;
-
-        for (int price : prices) {
-            // Buy the first stock (we want the minimum price)
-            firstBuy = max(firstBuy, -price);
-            
-            // Sell the first stock to maximize firstSell
-            firstSell = max(firstSell, firstBuy + price);
-            
-            // Buy the second stock (considering profit from firstSell)
-            secondBuy = max(secondBuy, firstSell - price);
-            
-            // Sell the second stock to maximize secondSell
-            secondSell = max(secondSell, secondBuy + price);
+        // f[k, i] represents the max profit up until prices[i] (Note: NOT ending with prices[i]) using at most k transactions. 
+        // f[k, i] = max(f[k, i-1], prices[i] - prices[j] + f[k-1, j]) { j in range of [0, i-1] }
+        //          = max(f[k, i-1], prices[i] + max(f[k-1, j] - prices[j]))
+        // f[0, i] = 0; 0 times transation makes 0 profit
+        // f[k, 0] = 0; if there is only one price data point you can't make any money no matter how many times you can trade
+        if (prices.size() <= 1) return 0;
+        int K = 2; // number of max transation allowed
+        int maxProf = 0;
+        vector<vector<int>> f(K+1, vector<int>(prices.size(), 0));
+        for (int k = 1; k <= K; k++) {
+            int tmpMax = f[k-1][0] - prices[0];
+            for (int i = 1; i < prices.size(); i++) {
+                f[k][i] = max(f[k][i-1], prices[i] + tmpMax);
+                tmpMax = max(tmpMax, f[k-1][i] - prices[i]);
+                maxProf = max(f[k][i], maxProf);
+            }
         }
-
-        return secondSell;
+        return maxProf;
         
     }
 };
