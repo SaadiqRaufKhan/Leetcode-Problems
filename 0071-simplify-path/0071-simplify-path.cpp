@@ -3,6 +3,7 @@ public:
     string simplifyPath(string path) {
         stack<string> s;
         int i = 0;
+        // push normal files to stack, ignore ".", and pop files for ".."
         while(i<path.length()) {
             if(path[i] == '/') {
                 i++;
@@ -24,19 +25,12 @@ public:
             }
         }
 
+        // build the final path
         string ans = "";
         while(!s.empty()) {
             string top = s.top();
             s.pop();
-            // if(top == "..") {
-            //     if(!s.empty()) s.pop();
-            // }
-            // else if(top == ".") {
-            //     continue;
-            // }
-            // else {
-                ans = '/' + top + ans;
-            // }
+            ans = '/' + top + ans;
         }
 
         return (ans.length() == 0) ? "/" : ans;
