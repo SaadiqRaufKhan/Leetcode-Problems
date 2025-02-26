@@ -31,24 +31,29 @@ public:
         // }
         // return ans;
 
+        
         vector<int> ans;
         deque<int> q;
-        int i = 0, j = 0;
-        while(j < nums.size()) {
-            // push to q the jth element
-            while(!q.empty() && q.back() < nums[j]) {
+
+        for(int i=0; i<k; i++) {
+            // remove smaller elements from queue
+            while(!q.empty() && q.back() < nums[i]) {
                 q.pop_back();
             }
-            q.push_back(nums[j]);
+            q.push_back(nums[i]);
+        }
+        ans.push_back(q.front());
 
-            if(j-i+1 == k) {
-                ans.push_back(q.front());
-                if(q.front() == nums[i]) {
-                    q.pop_front();
-                }
-                i++;
+        for(int i=k; i<nums.size(); i++) {
+            // first remove the smaller elements from the queue
+            while(!q.empty() && q.back() < nums[i]) {
+                q.pop_back();
             }
-            j++;
+            q.push_back(nums[i]);
+            if(q.front() == nums[i-k]) {
+                q.pop_front();
+            }
+            ans.push_back(q.front());
         }
         return ans;
     }
