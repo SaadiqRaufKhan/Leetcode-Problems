@@ -112,6 +112,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
@@ -160,6 +161,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
