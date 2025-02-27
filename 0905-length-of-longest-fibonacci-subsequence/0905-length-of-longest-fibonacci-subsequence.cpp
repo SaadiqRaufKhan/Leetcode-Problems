@@ -8,7 +8,8 @@ public:
             m[arr[i]] = i;
         }
 
-        // dp[i][j] --> length of longest fib seq ending with arr[i], arr[j]
+        // dp[i][j] --> length of longest fib seq ending with arr[i], arr[j] (i < j)
+        // initializing with 2 to handle base cases
         vector<vector<int>> dp(n, vector<int>(n,2));
         int ans = 2;
         for(int j=2; j<n; j++) {
