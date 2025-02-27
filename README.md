@@ -74,6 +74,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0937-online-stock-span) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0937-online-stock-span) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0937-online-stock-span](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0937-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -234,6 +237,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0937-online-stock-span) |
 ## Counting Sort
 |  |
 | ------- |
