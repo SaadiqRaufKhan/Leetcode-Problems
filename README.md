@@ -174,6 +174,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0062-unique-paths](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## String
 |  |
 | ------- |
