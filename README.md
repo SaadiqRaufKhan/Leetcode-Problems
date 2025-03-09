@@ -41,6 +41,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [1036-rotting-oranges](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1646-kth-missing-positive-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3483-alternating-groups-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -293,6 +294,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [3483-alternating-groups-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3483-alternating-groups-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
