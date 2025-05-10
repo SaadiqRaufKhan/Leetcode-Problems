@@ -53,6 +53,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0169-majority-element](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0567-permutation-in-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -82,6 +83,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Design
 |  |
@@ -191,6 +193,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0071-simplify-path](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -297,6 +300,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [3483-alternating-groups-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3483-alternating-groups-ii) |
 ## Monotonic Queue
 |  |
