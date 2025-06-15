@@ -131,6 +131,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Stack
 |  |
@@ -197,6 +198,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0071-simplify-path](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
