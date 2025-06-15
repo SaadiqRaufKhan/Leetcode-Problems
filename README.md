@@ -51,6 +51,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0229-majority-element-ii) |
@@ -91,6 +92,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0937-online-stock-span) |
 ## Sorting
@@ -293,6 +295,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0146-lru-cache) |
 ## Memoization
 |  |
 | ------- |
@@ -321,4 +324,8 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
