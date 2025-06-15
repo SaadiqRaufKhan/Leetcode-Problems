@@ -124,6 +124,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0055-jump-game](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -198,6 +199,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0005-longest-palindromic-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
