@@ -49,6 +49,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0146-lru-cache) |
@@ -294,6 +295,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0061-rotate-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0146-lru-cache) |
 ## Memoization
