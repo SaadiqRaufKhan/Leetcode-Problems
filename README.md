@@ -39,6 +39,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0493-reverse-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1036-rotting-oranges](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1646-kth-missing-positive-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
@@ -57,6 +58,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0217-contains-duplicate](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -107,6 +109,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0229-majority-element-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -288,6 +291,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0055-jump-game](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0134-gas-station) |
+| [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 ## Linked List
 |  |
 | ------- |
