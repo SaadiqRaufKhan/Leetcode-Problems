@@ -43,6 +43,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1036-rotting-oranges](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1646-kth-missing-positive-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3483-alternating-groups-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
@@ -111,6 +112,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -292,6 +294,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Linked List
 |  |
 | ------- |
