@@ -13,6 +13,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -73,6 +74,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -355,4 +357,8 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
