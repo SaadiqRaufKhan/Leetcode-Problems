@@ -41,6 +41,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0274-h-index](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -120,6 +121,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0229-majority-element-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -152,6 +154,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -310,6 +313,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0055-jump-game](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
