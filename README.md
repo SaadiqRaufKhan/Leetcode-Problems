@@ -44,6 +44,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0417-pacific-atlantic-water-flow](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -164,6 +165,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
@@ -384,4 +386,8 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1977-minimum-interval-to-include-each-query) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
