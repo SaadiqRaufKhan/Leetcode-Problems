@@ -14,6 +14,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0042-trapping-rain-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0055-jump-game) |
@@ -65,6 +66,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | ------- |
 | [0001-two-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -126,6 +128,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -244,6 +247,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0091-decode-ways) |
