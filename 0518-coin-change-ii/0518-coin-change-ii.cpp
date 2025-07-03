@@ -1,3 +1,23 @@
+class Solution {
+public:
+    int change(int amount, vector<int>& coins) {
+        vector<int> dp(amount + 1, 0);
+        dp[0] = 1;
+
+        for (int coin : coins) {
+            if (coin <= 0) continue; // prevent infinite loops if 0 appears
+            for (int a = coin; a <= amount; a++) {
+                if (dp[a - coin] > 0 && dp[a] <= INT_MAX - dp[a - coin]) {  // 2nd check is to avoid integer overflow error
+                    dp[a] += dp[a - coin];
+                }
+            }
+        }
+
+        return dp[amount];
+    }
+};
+
+// Java solution (works in Java but breaks in C++)
 // class Solution {
 // public:
 //     int change(int amount, vector<int>& coins) {
@@ -41,21 +61,4 @@
 
 //     }
 // };
-class Solution {
-public:
-    int change(int amount, vector<int>& coins) {
-        vector<int> dp(amount + 1, 0);
-        dp[0] = 1;
 
-        for (int coin : coins) {
-            if (coin <= 0) continue; // prevent infinite loops if 0 appears
-            for (int a = coin; a <= amount; a++) {
-                if (dp[a - coin] > 0 && dp[a] <= INT_MAX - dp[a - coin]) {
-                    dp[a] += dp[a - coin];
-                }
-            }
-        }
-
-        return dp[amount];
-    }
-};
