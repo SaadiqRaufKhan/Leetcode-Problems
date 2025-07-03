@@ -7,6 +7,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0031-next-permutation) |
@@ -60,6 +61,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
