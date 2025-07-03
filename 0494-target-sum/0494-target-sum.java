@@ -1,4 +1,4 @@
-record Pair(int i, int sum) {}
+record Pair(int i, int sum) {}  // tracks the state of the solution
 class Solution {
     int helper(int i, int sum, int[] nums, int target, Map<Pair, Integer> dp) {
         Pair p = new Pair(i, sum);
