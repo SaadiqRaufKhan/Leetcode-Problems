@@ -50,6 +50,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0493-reverse-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1036-rotting-oranges](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1036-rotting-oranges) |
@@ -78,6 +79,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0202-happy-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
@@ -390,6 +392,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Doubly-Linked List
 |  |
