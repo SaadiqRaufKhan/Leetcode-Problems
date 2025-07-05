@@ -241,6 +241,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0062-unique-paths) |
@@ -291,6 +292,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0050-powx-n) |
 ## Divide and Conquer
@@ -360,6 +362,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
