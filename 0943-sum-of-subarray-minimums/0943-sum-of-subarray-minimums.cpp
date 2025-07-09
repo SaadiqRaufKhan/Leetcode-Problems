@@ -3,59 +3,39 @@ public:
     const int mod = 1e9 + 7;
     int sumSubarrayMins(vector<int>& arr) {
         int n = arr.size();
-        stack<pair<int,int>> s;
+        stack<int> s;
         vector<int> ps(n);
         vector<int> ns(n);
 
         for(int i=0; i<n; i++) {
             if(s.empty()) {
                 ps[i] = -1;
-                s.push({arr[i], i});
             }
             else {
-                while(!s.empty() && s.top().first > arr[i]) {
+                while(!s.empty() && arr[s.top()] > arr[i]) {
                     s.pop();
                 }
-                if(s.empty()) {
-                    ps[i] = -1;
-                    s.push({arr[i], i});
-                }
-                else {
-                    ps[i] = s.top().second;
-                    s.push({arr[i], i});
-                }
+                if(s.empty()) ps[i] = -1;
+                else ps[i] = s.top();
+                
             }
+            s.push(i);
         }
 
         while(!s.empty()) s.pop();
         for(int i=n-1; i>=0; i--) {
             if(s.empty()) {
                 ns[i] = -1;
-                s.push({arr[i], i});
             }
             else {
-                while(!s.empty() && s.top().first >= arr[i]) {
+                while(!s.empty() && arr[s.top()] >= arr[i]) {
                     s.pop();
                 }
-                if(s.empty()) {
-                    ns[i] = -1;
-                    s.push({arr[i], i});
-                }
-                else {
-                    ns[i] = s.top().second;
-                    s.push({arr[i], i});
-                }
+                if(s.empty()) ns[i] = -1;
+                else ns[i] = s.top();
             }
+            s.push(i);
         }
-
-        for(int i=0; i<n; i++) {
-            cout << ps[i] << ", ";
-        }
-        cout << endl;
-        for(int i=0; i<n; i++) {
-            cout << ns[i] << ", ";
-        }
-        cout << endl;
 
         long long ans = 0;
         for(int i=0; i<n; i++) {
@@ -67,7 +47,6 @@ public:
 
             long long temp = (1 + llen + rlen + (llen * rlen)) % mod;
             temp *= arr[i];
-            cout << temp << endl;
             ans = (ans + temp) % mod;
         }
 
