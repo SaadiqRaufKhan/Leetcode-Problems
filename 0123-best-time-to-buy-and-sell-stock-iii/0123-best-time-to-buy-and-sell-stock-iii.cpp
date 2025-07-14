@@ -1,25 +1,25 @@
 class Solution {
 public:
+    // dp[k, i] represents the max profit up until prices[i] (Note: NOT ending with prices[i]) using at most k transactions. 
+    // dp[k, i] = max(dp[k][i-1], prices[i] - prices[j] + dp[k-1, j]) { j in range of [0, i-1] }
+    //          = max(dp[k][i-1], prices[i] + max(dp[k-1, j] - prices[j])) {rearranging the terms}
+        
     int maxProfit(vector<int>& prices) {
-        // f[k, i] represents the max profit up until prices[i] (Note: NOT ending with prices[i]) using at most k transactions. 
-        // f[k, i] = max(f[k, i-1], prices[i] - prices[j] + f[k-1, j]) { j in range of [0, i-1] }
-        //          = max(f[k, i-1], prices[i] + max(f[k-1, j] - prices[j]))
-        // f[0, i] = 0; 0 times transation makes 0 profit
-        // f[k, 0] = 0; if there is only one price data point you can't make any money no matter how many times you can trade
-        if (prices.size() <= 1) return 0;
-        int K = 2; // number of max transation allowed
-        int maxProf = 0;
-        vector<vector<int>> f(K+1, vector<int>(prices.size(), 0));
-        for (int k = 1; k <= K; k++) {
-            int tmpMax = f[k-1][0] - prices[0];
-            for (int i = 1; i < prices.size(); i++) {
-                f[k][i] = max(f[k][i-1], prices[i] + tmpMax);
-                tmpMax = max(tmpMax, f[k-1][i] - prices[i]);
-                maxProf = max(f[k][i], maxProf);
+        int n = prices.size();
+        if (n <= 1) return 0;
+
+        vector<vector<int>> dp(3, vector<int>(n, 0));
+
+        for (int k = 1; k <= 2; k++) {
+            int temp_max = dp[k-1][0] - prices[0];  // we've bought the stock 0th day
+            for (int i = 1; i < n; i++) {
+                // either we skip and don't sell on the ith day, or we sell the stock having it bought previously
+                dp[k][i] = max(dp[k][i-1], prices[i] + temp_max);
+                temp_max = max(temp_max, dp[k-1][i] - prices[i]);   // buying on ith day to see if profit improves
+                // the line above helps us by not having separate varaible 'j' to iterate in the 0 to i-1 range
             }
         }
-        return maxProf;
-        
+        return dp[2][n-1];
     }
 };
 
