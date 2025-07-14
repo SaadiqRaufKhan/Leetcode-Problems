@@ -22,6 +22,8 @@ public:
     //     return max(x, y);
         
     // }
+
+    /* 
     int maxProfit(int k, vector<int>& prices) {
         // recursive
         // int ans = recursiveHelper(prices, 0, k);
@@ -50,5 +52,21 @@ public:
             }
         }
         return dp[k][0];
+    }
+    */
+    int maxProfit(int K, vector<int>& prices) {
+        if (prices.size() <= 1) return 0;
+        // int K = 2; // number of max transation allowed
+        int maxProf = 0;
+        vector<vector<int>> f(K+1, vector<int>(prices.size(), 0));
+        for (int k = 1; k <= K; k++) {
+            int tmpMax = f[k-1][0] - prices[0];
+            for (int i = 1; i < prices.size(); i++) {
+                f[k][i] = max(f[k][i-1], prices[i] + tmpMax);
+                tmpMax = max(tmpMax, f[k-1][i] - prices[i]);
+                maxProf = max(f[k][i], maxProf);
+            }
+        }
+        return maxProf;
     }
 };
