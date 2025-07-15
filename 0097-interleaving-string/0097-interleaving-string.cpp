@@ -37,9 +37,11 @@ public:
         return dp[l1][l2];
     
     }
+};
 
-    /*
-    // Recursive Apporach
+/* Recursive Apporach
+class Solution {
+public:
     // Here we try to match the first chars of s1 and s2 with s3 as opposed to the DP approach where we match the last chars
     // This works because the first char of s3 must match with the first char of s1 or s2 or both
     bool isInterleave(string s1, string s2, string s3) {
@@ -75,5 +77,6 @@ public:
         // both didn't match
         return false;
 
-    }*/
+    }
 };
+*/
