@@ -13,17 +13,8 @@ class Solution {
         PriorityQueue<Pair> pq = new PriorityQueue<>(Collections.reverseOrder());
         List<Integer> ans = new ArrayList<>();
         for(int i=0; i<arr.length; i++) {
-            Pair p = new Pair(Math.abs(arr[i] - x), arr[i]);
-            if(pq.size() < k) {
-                pq.offer(p);
-            }
-            else {
-                Pair top = pq.peek();
-                if(p.compareTo(top) < 0) {
-                    pq.poll();
-                    pq.offer(p);
-                }
-            }
+            pq.offer(new Pair(Math.abs(arr[i] - x), arr[i]));
+            if(pq.size() > k) pq.poll();
         }
 
         while(!pq.isEmpty()) {
