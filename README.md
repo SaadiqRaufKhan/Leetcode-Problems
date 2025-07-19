@@ -31,6 +31,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -317,6 +318,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
