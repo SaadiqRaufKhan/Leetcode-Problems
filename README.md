@@ -319,6 +319,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
@@ -332,6 +333,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0053-maximum-subarray](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Combinatorics
 |  |
