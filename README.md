@@ -194,6 +194,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -321,6 +322,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0136-single-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
