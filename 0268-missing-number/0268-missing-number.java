@@ -1,23 +1,51 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n = nums.length;
-        int i = 0;
-        // cycle sort
-        while(i < n) {
-            if(nums[i] == i || nums[i] == n) {  // ignore case
-                i++;
-            }
-            else {  // swap case
-                int temp = nums[i];
-                nums[i] = nums[temp];
-                nums[temp] = temp;
-            }
+        int ans = 0;
+        for(int i=1; i<=nums.length; i++) {
+            ans ^= (nums[i-1] ^ i);
         }
-        
-        // linear search to find the first incorrect element
-        for(int j=0; j<n; j++) {
-            if(nums[j] != j) return j;
-        }
-        return n;
+        return ans;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// class Solution {
+//     public int missingNumber(int[] nums) {
+//         int n = nums.length;
+//         int i = 0;
+//         // cycle sort
+//         while(i < n) {
+//             if(nums[i] == i || nums[i] == n) {  // ignore case
+//                 i++;
+//             }
+//             else {  // swap case
+//                 int temp = nums[i];
+//                 nums[i] = nums[temp];
+//                 nums[temp] = temp;
+//             }
+//         }
+        
+//         // linear search to find the first incorrect element
+//         for(int j=0; j<n; j++) {
+//             if(nums[j] != j) return j;
+//         }
+//         return n;
+//     }
+// }

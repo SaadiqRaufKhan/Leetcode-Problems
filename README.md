@@ -45,6 +45,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0229-majority-element-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0289-game-of-life) |
@@ -89,6 +90,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0202-happy-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0768-partition-labels) |
@@ -149,6 +151,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0169-majority-element](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -275,6 +278,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0070-climbing-stairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## String
 |  |
@@ -310,6 +314,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
@@ -322,6 +327,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0136-single-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0338-counting-bits) |
 ## Recursion
