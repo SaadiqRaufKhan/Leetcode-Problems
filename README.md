@@ -281,6 +281,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0150-evaluate-reverse-polish-notation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## String
 |  |
@@ -332,6 +333,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0268-missing-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
