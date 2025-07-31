@@ -236,6 +236,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0129-sum-root-to-leaf-numbers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -261,6 +262,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0129-sum-root-to-leaf-numbers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -489,4 +491,8 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | ------- |
 | [1471-maximum-students-taking-exam](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1471-maximum-students-taking-exam) |
 | [1799-minimum-incompatibility](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1799-minimum-incompatibility) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
