@@ -173,6 +173,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0239-sliding-window-maximum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0744-network-delay-time](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Data Stream
 |  |
@@ -251,6 +252,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0417-pacific-atlantic-water-flow](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0744-network-delay-time](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -273,6 +275,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0744-network-delay-time](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1036-rotting-oranges) |
@@ -385,6 +388,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | ------- |
 | [0207-course-schedule](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0744-network-delay-time](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
@@ -495,4 +499,8 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
