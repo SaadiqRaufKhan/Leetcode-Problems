@@ -67,6 +67,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [1036-rotting-oranges](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1471-maximum-students-taking-exam](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1471-maximum-students-taking-exam) |
 | [1646-kth-missing-positive-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1706-min-cost-to-connect-all-points](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1799-minimum-incompatibility](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1799-minimum-incompatibility) |
 | [1813-maximum-erasure-value](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -390,6 +391,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0744-network-delay-time](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -399,6 +401,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -503,4 +506,8 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
