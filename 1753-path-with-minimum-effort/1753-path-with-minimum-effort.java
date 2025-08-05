@@ -23,6 +23,8 @@ class Solution {
             int x = node[1];
             int y = node[2];
 
+            if(x == m-1 && y == n-1) break;
+            
             visited[x][y] = true;
 
             for(int[] dir: dirs) {
