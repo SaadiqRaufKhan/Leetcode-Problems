@@ -61,6 +61,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0560-subarray-sum-equals-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
@@ -116,6 +117,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0289-game-of-life](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1471-maximum-students-taking-exam](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1471-maximum-students-taking-exam) |
 | [1753-path-with-minimum-effort](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
@@ -177,6 +179,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -259,6 +262,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0437-path-sum-iii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -284,6 +288,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0417-pacific-atlantic-water-flow](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -342,6 +347,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1646-kth-missing-positive-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -411,6 +417,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1706-min-cost-to-connect-all-points](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
