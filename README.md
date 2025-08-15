@@ -73,6 +73,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [1753-path-with-minimum-effort](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1799-minimum-incompatibility](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1799-minimum-incompatibility) |
 | [1813-maximum-erasure-value](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
+| [1833-find-the-highest-altitude](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -493,6 +494,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0209-minimum-size-subarray-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1833-find-the-highest-altitude](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Doubly-Linked List
 |  |
