@@ -60,6 +60,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0494-target-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
@@ -485,6 +486,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0209-minimum-size-subarray-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [1813-maximum-erasure-value](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [3483-alternating-groups-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3483-alternating-groups-ii) |
