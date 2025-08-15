@@ -105,6 +105,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -171,6 +172,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0658-find-k-closest-elements](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -331,12 +333,14 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0647-palindromic-substrings](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0768-partition-labels) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
