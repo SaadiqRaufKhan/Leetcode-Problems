@@ -47,6 +47,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0239-sliding-window-maximum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -137,6 +138,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0141-linked-list-cycle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
