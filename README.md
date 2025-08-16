@@ -79,6 +79,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -152,6 +153,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0647-palindromic-substrings](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0768-partition-labels) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Design
 |  |
@@ -180,6 +182,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [1977-minimum-interval-to-include-each-query](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -363,6 +366,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [1753-path-with-minimum-effort](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
