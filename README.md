@@ -79,6 +79,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2428-equal-row-and-column-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3483-alternating-groups-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3483-alternating-groups-ii) |
@@ -109,6 +110,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [1777-determine-if-two-strings-are-close](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2428-equal-row-and-column-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
@@ -125,6 +127,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [1036-rotting-oranges](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1471-maximum-students-taking-exam](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1471-maximum-students-taking-exam) |
 | [1753-path-with-minimum-effort](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
+| [2428-equal-row-and-column-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -512,6 +515,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0054-spiral-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [2428-equal-row-and-column-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## Line Sweep
 |  |
 | ------- |
