@@ -236,6 +236,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1471-maximum-students-taking-exam](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1471-maximum-students-taking-exam) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1799-minimum-incompatibility](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1799-minimum-incompatibility) |
 ## Stack
 |  |
@@ -261,6 +262,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0450-delete-node-in-a-bst](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -278,6 +280,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -291,6 +294,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0450-delete-node-in-a-bst](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
