@@ -275,6 +275,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
@@ -306,6 +307,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0226-invert-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
@@ -429,6 +431,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | ------- |
 | [0207-course-schedule](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -442,6 +445,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1706-min-cost-to-connect-all-points](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
