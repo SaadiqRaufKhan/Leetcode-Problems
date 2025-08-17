@@ -261,6 +261,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0437-path-sum-iii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
@@ -279,6 +280,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0904-leaf-similar-trees](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
@@ -293,6 +295,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0437-path-sum-iii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
