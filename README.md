@@ -153,6 +153,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0647-palindromic-substrings](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0768-partition-labels) |
+| [1894-merge-strings-alternately](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Design
@@ -352,6 +353,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0678-valid-parenthesis-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
+| [1894-merge-strings-alternately](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
