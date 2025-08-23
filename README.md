@@ -63,6 +63,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0560-subarray-sum-equals-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
@@ -234,6 +235,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0518-coin-change-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
@@ -479,6 +481,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0134-gas-station](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
