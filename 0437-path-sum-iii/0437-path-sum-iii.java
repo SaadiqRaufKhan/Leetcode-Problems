@@ -33,14 +33,15 @@ class Solution {
         helper(root.left, target, prefixsum, map);
         helper(root.right, target, prefixsum, map);
 
-        // backtrack: remove the current path sum count for other branches
+        // *IMP* backtrack: remove the current prefixsum count for other branches
+        // because left subtree branches can't be used in right subtree
         map.put(prefixsum, map.get(prefixsum) - 1);
     }
     public int pathSum(TreeNode root, int targetSum) {
         Map<Long, Integer> map = new HashMap<>();
         map.put(0L, 1); // base case: one path with sum 0
         helper(root, targetSum, 0L, map);
-        return ans;
+        return ans; // global var
     }
 
 
