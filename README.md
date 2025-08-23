@@ -262,6 +262,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0113-path-sum-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -276,6 +277,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0129-sum-root-to-leaf-numbers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -299,6 +301,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0113-path-sum-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
