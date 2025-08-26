@@ -81,6 +81,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [1833-find-the-highest-altitude](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -400,6 +401,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [1646-kth-missing-positive-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
@@ -500,6 +502,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0768-partition-labels](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Linked List
