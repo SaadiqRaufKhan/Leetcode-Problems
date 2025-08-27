@@ -253,6 +253,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0071-simplify-path](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0937-online-stock-span) |
@@ -349,6 +350,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0070-climbing-stairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -366,6 +368,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0091-decode-ways](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0139-word-break) |
+| [0224-basic-calculator](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -422,6 +425,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0002-add-two-numbers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0224-basic-calculator) |
 ## Divide and Conquer
 |  |
 | ------- |
