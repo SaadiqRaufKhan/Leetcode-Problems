@@ -15,6 +15,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0045-jump-game-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0055-jump-game) |
@@ -577,6 +578,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0494-target-sum) |
 ## Bitmask
