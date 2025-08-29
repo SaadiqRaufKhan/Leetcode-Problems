@@ -268,6 +268,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
@@ -284,6 +285,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0207-course-schedule) |
@@ -312,6 +314,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
@@ -326,6 +329,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
@@ -523,6 +527,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0061-rotate-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0086-partition-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0146-lru-cache) |
