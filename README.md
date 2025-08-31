@@ -73,6 +73,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0876-hand-of-straights](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1471-maximum-students-taking-exam](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1471-maximum-students-taking-exam) |
 | [1646-kth-missing-positive-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
@@ -134,6 +135,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [0945-snakes-and-ladders](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1471-maximum-students-taking-exam](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1471-maximum-students-taking-exam) |
 | [1753-path-with-minimum-effort](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1753-path-with-minimum-effort) |
@@ -349,6 +351,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0801-is-graph-bipartite](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
+| [0945-snakes-and-ladders](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
