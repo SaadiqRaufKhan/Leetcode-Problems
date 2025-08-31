@@ -4,10 +4,9 @@ class Solution {
         int target = n*n;
 
         // check if there is a ladder on the first cell itself or not
-        // int cell = (board[n-1][0] == -1) ? 1 : board[n-1][0];
-        int cell = 1;
+        int cell = (board[n-1][0] == -1) ? 1 : board[n-1][0];
 
-        // store the cells with all the snakes and ladders
+        // store the cell->destination mapping with snakes and ladders 
         Map<Integer, Integer> map = new HashMap<>();
 
         boolean dir = true; // true: l->r, false: r->l
@@ -29,19 +28,23 @@ class Solution {
             }
         }
 
+        // visited cells
         Set<Integer> visited = new HashSet<>();
-        // int start = (board[n-1][0] == -1) ? 1 : board[n-1][0];
-        int start = 1;
+        
+        int start = (board[n-1][0] == -1) ? 1 : board[n-1][0];
         Deque<Integer> q = new ArrayDeque<>();
         q.offer(start);
         visited.add(start);
+
         int moves = 1;
+        // bfs
         while(!q.isEmpty()) {
             int size = q.size();
             while(size > 0) {
                 int pos = q.poll();
                 for(int next = pos+1; next <= pos+6; next++) {
-                    int trueNext = map.getOrDefault(next, next);
+                    // check if next has a snake/ladder mapping or not
+                    int trueNext = map.getOrDefault(next, next);    
                     if(!visited.contains(trueNext)) {
                         if(trueNext == target) return moves;
                         q.offer(trueNext);
