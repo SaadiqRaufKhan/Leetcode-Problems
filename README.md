@@ -74,6 +74,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
+| [0954-maximum-sum-circular-subarray](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1036-rotting-oranges](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1471-maximum-students-taking-exam](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1471-maximum-students-taking-exam) |
 | [1646-kth-missing-positive-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
@@ -249,6 +250,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0803-cheapest-flights-within-k-stops](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [0954-maximum-sum-circular-subarray](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1471-maximum-students-taking-exam](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1471-maximum-students-taking-exam) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1799-minimum-incompatibility](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/1799-minimum-incompatibility) |
@@ -455,6 +457,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0190-reverse-bits](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0954-maximum-sum-circular-subarray](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -555,6 +558,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -571,6 +575,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
