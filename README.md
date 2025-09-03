@@ -155,6 +155,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0086-partition-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -182,6 +183,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0049-group-anagrams](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0229-majority-element-ii) |
@@ -454,6 +456,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0053-maximum-subarray](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
@@ -474,6 +477,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -545,6 +549,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 | [0138-copy-list-with-random-pointer](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0148-sort-list) |
 ## Memoization
 |  |
 | ------- |
