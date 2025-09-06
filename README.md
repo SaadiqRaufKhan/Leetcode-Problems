@@ -8,6 +8,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0031-next-permutation) |
@@ -414,6 +415,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -453,6 +455,7 @@ Here's my leetcode profile: https://leetcode.com/saadiq_rk/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SaadiqRaufKhan/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
